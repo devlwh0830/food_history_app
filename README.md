@@ -6,3 +6,5 @@
 ## 사용된 공공데이터
 - [바코드연계제품정보](https://www.foodsafetykorea.go.kr/api/newDatasetDetail.do)
 - [식품(첨가물)품목제조보고](https://www.foodsafetykorea.go.kr/api/newDatasetDetail.do)
+
+### 사용하려면 Flutter에 대해서 숙지해야 합니다.
