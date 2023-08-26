@@ -1,16 +1,8 @@
-# food_history_app
+# 식품 정보 알려주는 앱
+전설의 문어 Flutter 프로젝트 <br>
+식품의약품안전처와 행정안전부에서 제공하는<br>
+공공데이터를 활용하여 제작 하였습니다.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 사용된 공공데이터
+- [바코드연계제품정보](https://www.foodsafetykorea.go.kr/api/newDatasetDetail.do)
+- [식품(첨가물)품목제조보고](https://www.foodsafetykorea.go.kr/api/newDatasetDetail.do)
